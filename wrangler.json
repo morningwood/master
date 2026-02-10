@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "master",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "6d428a71-33bf-40bf-ab23-1e6fdb983a24",
+			"database_name": "masterliquor"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
